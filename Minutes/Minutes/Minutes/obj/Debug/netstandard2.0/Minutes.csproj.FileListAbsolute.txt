@@ -1,0 +1,12 @@
+D:\C# projs\Minutes\Minutes\Minutes\bin\Debug\netstandard2.0\Minutes.deps.json
+D:\C# projs\Minutes\Minutes\Minutes\bin\Debug\netstandard2.0\Minutes.dll
+D:\C# projs\Minutes\Minutes\Minutes\bin\Debug\netstandard2.0\Minutes.pdb
+D:\C# projs\Minutes\Minutes\Minutes\obj\Debug\netstandard2.0\Minutes.csprojAssemblyReference.cache
+D:\C# projs\Minutes\Minutes\Minutes\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\C# projs\Minutes\Minutes\Minutes\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\C# projs\Minutes\Minutes\Minutes\obj\Debug\netstandard2.0\Minutes.csproj.CoreCompileInputs.cache
+D:\C# projs\Minutes\Minutes\Minutes\obj\Debug\netstandard2.0\Minutes.AssemblyInfoInputs.cache
+D:\C# projs\Minutes\Minutes\Minutes\obj\Debug\netstandard2.0\Minutes.AssemblyInfo.cs
+D:\C# projs\Minutes\Minutes\Minutes\obj\Debug\netstandard2.0\XamlC.stamp
+D:\C# projs\Minutes\Minutes\Minutes\obj\Debug\netstandard2.0\Minutes.dll
+D:\C# projs\Minutes\Minutes\Minutes\obj\Debug\netstandard2.0\Minutes.pdb
